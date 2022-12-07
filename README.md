@@ -196,5 +196,5 @@ Emoji:
 
 🫠
 
-🥱 Dusit Chunviset | 642115017
-🐳 Kan | 642115003
+🥱 Dusit Chunviset 642115017  
+🐳 Kan 642115003
