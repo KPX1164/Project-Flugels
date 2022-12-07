@@ -195,3 +195,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 🫠
+
+Dusit Chunviset | 642115017
